@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AEES Desktop 1.0.0.0", "AEES Desktop 1.0.0.0.\AEES Desktop 1.0.0.0.csproj", "{FCC330D8-6144-4907-8475-6FEC068A93FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCC330D8-6144-4907-8475-6FEC068A93FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC330D8-6144-4907-8475-6FEC068A93FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC330D8-6144-4907-8475-6FEC068A93FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC330D8-6144-4907-8475-6FEC068A93FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
